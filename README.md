@@ -6,8 +6,8 @@ These are the 3 assignments for the [INF8215: Methods and Algorithms for Artific
 
 Members:
 - Amine BELLAHSEN
-- Sanae Lotfi
-- Théo Moins
+- Sanae LOTFI
+- Théo MOINS
 
 ## Assignment 1 : search methods [Python]
 
