@@ -4,7 +4,10 @@
 
 These are the 3 assignments for the [INF8215: Methods and Algorithms for Artificial Intelligence](https://www.polymtl.ca/etudes/cours/intelligence-artif-methodes-et-algorithmes), taught by Prof. [DANIEL ALOISE](https://www.polymtl.ca/expertises/aloise-daniel). The content of this course is very similar and inspired from the content of the [CS 188: Introduction to Artificial Intelligence](http://inst.eecs.berkeley.edu/~cs188/fa19/) course at [UC Berkeley](https://www.berkeley.edu/).
 
-This is a joint work with Théo Moins and Amine Bellahsen. 
+Members:
+- Amine BELLAHSEN
+- Sanae Lotfi
+- Théo Moins
 
 ## Assignment 1 : search methods [Python]
 
