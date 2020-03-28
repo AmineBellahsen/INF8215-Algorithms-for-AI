@@ -10,30 +10,30 @@ This is a joint work with Théo Moins and Amine Bellahsen.
 
 Implemented methods: search trees, A* search algorithm and Variable Neighborhood Search (VNS). 
 
-[Statement in English](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW1/tp1_2018_EN_Statement.ipynb)
+[Statement in English](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW1/tp1_2018_EN_Statement.ipynb)
 
-[Solution in French](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW1/INF8215_HW1_FR.ipynb).
+[Solution in French](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW1/INF8215_HW1_FR.ipynb).
 
 
 ## Assignment 2: Prolog, logic programming and constraint programming [Prolog&MiniZinc]
 
 Using constraint programming to solve two combinatorial problems and logic programming to extract information.
 
-[Statement in English](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/TP2_A18_EN_Statement.pdf)
+[Statement in English](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW2/TP2_A18_EN_Statement.pdf)
 
 Solution:
 
-[Exercise 1](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/tp2_exo1.mzn)  
-[Exercise 2](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/tp2_exo2.mzn)  
-[Exercise 3](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/tp2_exo3.pl)  
-[Exercise 4](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/tp2_exo4.pl)  
-[Report in French](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/compte_rendu_tp2_inf8215.pdf).
+[Exercise 1](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW2/tp2_exo1.mzn)  
+[Exercise 2](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW2/tp2_exo2.mzn)  
+[Exercise 3](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW2/tp2_exo3.pl)  
+[Exercise 4](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW2/tp2_exo4.pl)  
+[Report in French](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW2/compte_rendu_tp2_inf8215.pdf).
 
 ## Assignment 3: Machine Learning [Python]
 
 Implementation of softmax regression, data preprocessing and InclassKaggle challenge.
 
-[Statement in English](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW3/TP3_EN_Statement.ipynb)
+[Statement in English](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW3/TP3_EN_Statement.ipynb)
 
-[Solution in French](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW3/TP3_FR_Solution.ipynb).
+[Solution in French](https://github.com/AmineBellahsen/INF8215-Algorithms-for-AI/blob/master/HW3/TP3_FR_Solution.ipynb).
 
